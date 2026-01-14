@@ -1,2 +1,2 @@
-# Entendendo-Algoritmos-Aditya-Y.
-Repositório destinado à documentação e implementação dos algoritmos estudados no livro "Entendendo Algoritmos" de Aditya Y. Bhargava.
+# Grokking Algorithms’ by Aditya Y.
+This repository was created to store and organize the algorithms studied from the book ‘Grokking Algorithms’ by Aditya Y. Bhargava.
